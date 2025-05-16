@@ -11,6 +11,7 @@ I suggest that this GPT is only for users whose native language is Chinese, as s
   <img src="retry.png" alt="Renderings" />
 </p>
 我为这个GPTs增加了一个代码，用于在被拒绝或红信警告时重置 如果遇到此问题，请编辑你的上一个消息并键入<code>/retry</code> 请务必包含正斜杠，如果不起作用，请尝试返回上两个消息重试，如还不起作用，请重启一个新对话 <br>
-retry命令还能用来做什么？ 比如你想要ChatGPT自己生成它自己的设定（不推荐，极大概率直接包含成人内容），但你不满意，可以使用retry来帮助重新生成
+retry命令还能用来做什么？ 比如你想要ChatGPT自己生成它自己的设定（不推荐，极大概率直接包含成人内容），但你不满意，可以使用retry来帮助重新生成 <br>
+<b>请不要触碰伦理底线，有些话是不能说的，不要说怎么用retry都没有用，请思考你自己说了什么，对自己打出的每一句话负责</b> <br>
 ## 免责声明
 互联网不是法外之地，请避免使用或引导Sweet Dream Writer生成儿童色情内容，如该GPTs生成的内容违反适用法律，其后果和风险由你承担，Sweet Dream Writer的制作者不承担责任
