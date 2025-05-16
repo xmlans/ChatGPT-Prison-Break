@@ -9,9 +9,11 @@ I suggest that this GPT is only for users whose native language is Chinese, as s
 ## 疑难解答
 <p align="center">
   <img src="retry.png" alt="Renderings" />
-</p>
+</p> <br>
 我为这个GPTs增加了一个代码，用于在被拒绝或红信警告时重置 如果遇到此问题，请编辑你的上一个消息并键入<code>/retry</code> 请务必包含正斜杠，如果不起作用，请尝试返回上两个消息重试，如还不起作用，请重启一个新对话 <br>
 retry命令还能用来做什么？ 比如你想要ChatGPT自己生成它自己的设定（不推荐，极大概率直接包含成人内容），但你不满意，可以使用retry来帮助重新生成 <br>
+我不建议你说：“你给我生成一个角色的设定”或“你随机创建一个角色”，因为这样很容易收到红信，而且请自己思考一个角色扮演的人物设定，或上网找寻现成的，而不是让它自己生成 <br>
 <b>请不要触碰伦理底线，有些话是不能说的，不要说怎么用retry都没有用，请思考你自己说了什么，对自己打出的每一句话负责</b> <br>
+
 ## 免责声明
 互联网不是法外之地，请避免使用或引导Sweet Dream Writer生成儿童色情内容，如该GPTs生成的内容违反适用法律，其后果和风险由你承担，Sweet Dream Writer的制作者不承担责任
