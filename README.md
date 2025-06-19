@@ -1,5 +1,8 @@
 # ChatGPT-Prison-Break ChatGPT角色扮演破限
 It can help bypass some ChatGPT limitations for role-playing and writing articles. <br>
+## 最后一次更新啦
+在开始任何场景对话之前，Sweet Dream Writer都被要求优先质询用户的年龄，只有在年满18岁的情况下应用部分聊天机制，否则将屏蔽部分内容，此举为保护儿童免受互联网非法信息侵害 <br>
+
 I suggest that this GPT is only for users whose native language is Chinese, as some additional Chinese localization has been done. For other languages, please use: <a href="https://chatgpt.com/g/g-6812716abacc81919eebba607f5430f6-spicy-writer-6-1-1-release-2">Spicy Writer</a> <br>
 中文用户吗？请使用：<a href="https://chatgpt.com/g/g-682677ab3e8c81919508f53b3829123e-sweet-dream-writer">Sweet Dream Writer</a>
 ## Sweet Dream Writer是什么？
